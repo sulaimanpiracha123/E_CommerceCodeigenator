@@ -27,7 +27,7 @@ class Admin extends CI_Controller
         redirect(base_url('index.php/Admin_Login/Admin_Login1'));
     }
 }
-
+// hello
 
 
 ?>
